@@ -59,3 +59,11 @@ footer {
 
     text-align: center;
 }
+
+main {
+
+    background-color: #fff;
+    box-shadow: 0 3px 3px  #444;
+    padding:  2em 1em;
+    margin-bottom: 1.5em;
+}
