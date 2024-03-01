@@ -23,4 +23,11 @@ header button{
     border: 0;
     color: white;
     font-weight: bold;
+
+}
+main article h3 {
+
+    color: rgb(11, 133, 138);
+    font-weight: bold;
+    
 }
